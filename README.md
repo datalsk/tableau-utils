@@ -3,6 +3,8 @@
 Tableau Server에서 데이터소스를 다운로드하고, Hyper 파일로 다시 덮어쓰기 게시하는 Windows GUI 도구.  
 비개발자도 쓸 수 있도록 설정창 형태로 만들었고, PyInstaller로 .exe 단일 파일로 배포한다.
 
+![GUI 화면](sync_gui.png)
+
 ---
 
 ## 동작 흐름
