@@ -1,0 +1,24 @@
+# 사용자 설정 (토큰 포함 — 절대 커밋하지 않음)
+config.json
+
+# 빌드 산출물
+build_env/
+dist/
+build/
+*.spec
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# 임시 파일
+~$*
+*.tmp
+
+# 로컬 데이터
+*.hyper
+*.tdsx
+*.xlsx
+*.xls
+prepdata.xlsx
